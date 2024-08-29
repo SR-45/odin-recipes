@@ -1,0 +1,22 @@
+h1,
+h3 {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline
+}
+
+ul,
+ol,
+p {
+    background-color: rgb(229, 229, 229);
+    color: rgb(0, 0, 0);
+}
+
+ol {
+    background-color: rgb(229, 229, 229);
+    color: rgb(0, 0, 0);
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
